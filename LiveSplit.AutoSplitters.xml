@@ -16332,6 +16332,14 @@
         <Description>Load removal available (by Distro)</Description>
     </AutoSplitter>
     <AutoSplitter>
+          <Games>
+                <Game>Tom Clancy's Splinter Cell: Chaos Theory</Game>
+          </Games>
+          <URLs>
+              <URL>https://raw.githubusercontent.com/DistProg/SCCTAutoSplitter/main/SCCT_AutoSplitter.asl</URL>
+          </URLs>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Cry of Fear</Game>
         </Games>
